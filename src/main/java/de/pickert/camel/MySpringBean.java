@@ -1,4 +1,4 @@
-package de.pickert.activemq_camel.iota;
+package de.pickert.camel;
 
 import org.springframework.beans.factory.annotation.Value;
 import org.springframework.stereotype.Component;
